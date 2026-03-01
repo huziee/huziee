@@ -46,7 +46,7 @@ I specialize in building responsive, user-friendly interfaces and connecting the
 * **Tech:** Laravel 12 • PHP 8.x • Eloquent ORM • MySQL • Vanilla JS
 * **Impact:** A complete inventory system that manages everything in one place — from buying products from suppliers, storing them in the warehouse, and handling logistics, to delivering them to the final customer.
 
-### 🌐 Corporate Digital Strategy & UX Design
+### 🌐 ArvatFinlay - Corporate Digital Wordpress Project
 * **Tech:** WordPress • UX Builder (Flatsome) • Custom CSS • SEO Optimization  
 *Core Logic: A premium, high-performance corporate website designed for a Canadian legal and consulting firm. The project involved transforming a complex professional service into a clean, accessible digital experience.
 
