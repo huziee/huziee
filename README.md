@@ -7,6 +7,9 @@
 <a href="https://php.net">
   <img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </a>
+<a href="https://wordpress.org">
+  <img src="https://img.shields.io/badge/WordPress-6.x-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</a>
 </p>
 
 <h2 align="center">🚀 Full Stack Web Developer</h2>
